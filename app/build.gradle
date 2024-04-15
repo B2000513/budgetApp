@@ -73,6 +73,8 @@ dependencies {
     implementation "com.google.accompanist:accompanist-pager:0.29.1-alpha"
     implementation 'io.sentry:sentry-android:6.13.1'
     implementation 'io.sentry:sentry-compose-android:6.13.1'
+    implementation 'androidx.compose.foundation:foundation-layout-android:1.6.5'
+    implementation 'androidx.compose.material3:material3-android:1.2.1'
 
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
